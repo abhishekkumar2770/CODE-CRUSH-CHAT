@@ -127,12 +127,3 @@ Then open **http://localhost:5173** in your browser 🎉
 
 ---
 
-## 🤖 AI Tools Used
-
-| Tool | Purpose |
-|------|----------|
-| **ChatGPT (GPT-5)** | Helped design project structure, socket event logic, and wrote documentation |
-| **GitHub Copilot** | Assisted with quick code suggestions while writing React components |
-| **Figma AI Plugin** | Used for creating quick UI wireframes before building the frontend |
-
----
